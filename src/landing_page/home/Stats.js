@@ -46,11 +46,11 @@ function Stats() {
             alt="ecosystem"
           />
           <div className="text-center">
-            <a className="mx-5" href="#" style={{ textDecoration: "none" }}>
+            <a className="mx-5" href="/" style={{ textDecoration: "none" }}>
               Explore our products{" "}
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Try Kite demo{" "}
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
