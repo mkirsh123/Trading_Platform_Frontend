@@ -15,7 +15,7 @@ function SignUp() {
                 properly. Please sign in to access the dashboard.
               </p>
               <a
-                href="https://686f813792ae164ed7faffc0--tradingplatformdashboard.netlify.app/"
+                href="https://tradingplatformdashboard.netlify.app/"
                 className="btn btn-primary btn-lg"
                 style={{ textDecoration: "none" }}
               >
