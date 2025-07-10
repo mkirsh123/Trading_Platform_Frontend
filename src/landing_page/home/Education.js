@@ -19,7 +19,7 @@ function Education() {
                 Varsity, the largest online stock market education book in the
                 world covering everything from the basics to advanced trading.
               </p>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="/" style={{ textDecoration: "none" }}>
                 Varsity &nbsp;
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
@@ -29,7 +29,7 @@ function Education() {
                 Varsity, the largest online stock market education book in the
                 world covering everything from the basics to advanced trading.
               </p>
-              <a href="#" style={{ textDecoration: "none" }}>
+              <a href="/" style={{ textDecoration: "none" }}>
                 TradingQ&A &nbsp;
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
