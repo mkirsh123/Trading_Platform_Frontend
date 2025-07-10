@@ -21,7 +21,7 @@ function Footer() {
           <div className="col">
             <h5 className="pb-2">Account</h5>
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -34,7 +34,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -47,7 +47,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -60,7 +60,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -73,7 +73,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -86,7 +86,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -99,7 +99,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -112,7 +112,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -127,7 +127,7 @@ function Footer() {
           <div className="col">
             <h5 className="pb-2">Support</h5>
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -140,7 +140,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -153,7 +153,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -166,7 +166,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -179,7 +179,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -192,7 +192,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -205,7 +205,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -218,7 +218,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -233,7 +233,7 @@ function Footer() {
           <div className="col">
             <h5 className="pb-2">Company</h5>
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -246,7 +246,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -259,7 +259,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -272,7 +272,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -285,7 +285,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -298,7 +298,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -311,7 +311,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -326,7 +326,7 @@ function Footer() {
           <div className="col">
             <h5 className="pb-2">Quick links</h5>
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -339,7 +339,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -352,7 +352,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -365,7 +365,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -378,7 +378,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -391,7 +391,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -404,7 +404,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="text-muted"
               style={{
                 textDecoration: "none",
@@ -480,63 +480,63 @@ function Footer() {
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             NSE
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             BSE
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             MCX
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             Terms & conditions
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             Policies & procedures
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             Privacy policy
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             Disclosure
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
             For investor's attention
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted"
             style={{ textDecoration: "none", color: "black", fontSize: "14px" }}
           >
