@@ -14,7 +14,7 @@ function Hero() {
         <h4>Support Portal</h4>
         <h4>
           <a
-            href="#"
+            href="/"
             style={{
               lineHeight: "2",
               fontSize: "18px",
@@ -35,18 +35,18 @@ function Hero() {
             id="InputField"
           />
           <br />
-          <a href="#" style={Mystyle}>
+          <a href="/" style={Mystyle}>
             Track account opening
           </a>{" "}
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#" style={Mystyle}>
+          <a href="/" style={Mystyle}>
             Track segment activation
           </a>{" "}
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#" style={Mystyle}>
+          <a href="/" style={Mystyle}>
             Intraday margins
           </a>{" "}
-          <a href="#" style={Mystyle}>
+          <a href="/" style={Mystyle}>
             Kite user manual
           </a>{" "}
         </div>
@@ -55,7 +55,7 @@ function Hero() {
           <ol>
             <li>
               <a
-                href="#"
+                href="/"
                 style={{ lineHeight: "2", fontSize: "18px", color: "white" }}
               >
                 Quarterly Settlement of Funds - July 2025
@@ -64,7 +64,7 @@ function Hero() {
 
             <li>
               <a
-                href="#"
+                href="/"
                 style={{ lineHeight: "2", fontSize: "18px", color: "white" }}
               >
                 {" "}
