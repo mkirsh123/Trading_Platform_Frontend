@@ -13,7 +13,7 @@ function Leftimage({
     <div className="container p-5 mb-5">
       <div className="row ">
         <div className="col-6 pt-3">
-          <img src={imageURL} />
+          <img src={imageURL} alt=""/>
         </div>
         <div className="col-2"></div>
         <div className="col-4 pt-5">
