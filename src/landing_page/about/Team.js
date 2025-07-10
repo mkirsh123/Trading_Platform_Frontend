@@ -9,7 +9,7 @@ function Team() {
       <div className="row p-5" style={{ lineHeight: "1.8", fontSize: "1em" }}>
         <div className="col-6">
           <img
-            src="media/images/Rkphoto1.jpg"
+            src="media/images/Rkphoto1.jpg" alt=""
             style={{ borderRadius: "100%", width: "50%", marginLeft: "100px" }}
           />
           <br />
