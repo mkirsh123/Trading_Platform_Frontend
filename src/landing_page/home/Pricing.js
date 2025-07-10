@@ -21,14 +21,14 @@ function Pricing() {
               <div className="col-4">
                 <img
                   className="pl-5"
-                  src="media\images\pricingEquity.svg"
+                  src="media\images\pricingEquity.svg" alt=""
                   style={{ width: "50%" }}
                 />
                 <p className="text-muted fs-6">Free account opening</p>
               </div>
               <div className="col-4">
                 <img
-                  src="media\images\pricingEquity.svg"
+                  src="media\images\pricingEquity.svg" alt=""
                   style={{ width: "50%" }}
                 />
                 <p className="text-muted fs-6">
@@ -38,7 +38,7 @@ function Pricing() {
               </div>
               <div className="col-4">
                 <img
-                  src="media\images\intradayTrades.svg"
+                  src="media\images\intradayTrades.svg" alt=""
                   style={{ width: "50%" }}
                 />
                 <p className="text-muted fs-6">Intraday and F&O</p>
