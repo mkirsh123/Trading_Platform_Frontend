@@ -14,7 +14,7 @@ function Rightimage({ imageURL, productName, productDescription, learnMore }) {
         </div>
         <div className="col-1"></div>
         <div className="col-7">
-          <img src={imageURL} />
+          <img src={imageURL} alt=""/>
         </div>
       </div>
       <br></br>
