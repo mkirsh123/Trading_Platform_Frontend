@@ -11,9 +11,10 @@ function OpenAccount() {
             F&O trades.
           </p>
           <button
+            onClick={() => window.location.href = "https://candid-cupcake-537f43.netlify.app/signup"}
             className="p-3 btn btn-primary fs-5"
             style={{ width: "20%", margin: "0 auto" }}
-          >
+            >
             Sign up for free
           </button>
         </div>
