@@ -10,11 +10,12 @@ function Hero() {
           Online platform to invest in stocks, derivatives, mutual funds, ETFs,
           bonds, and more.
         </p>
-        <button
-          className="p-3 btn btn-primary fs-5"
-          style={{ width: "20%", margin: "0 auto" }}
-        >
-          Sign up for free
+          <button
+            onClick={() => window.location.href = "https://candid-cupcake-537f43.netlify.app/signup"}
+            className="p-3 btn btn-primary fs-5"
+            style={{ width: "20%", margin: "0 auto" }}
+            >
+            Sign up for free
         </button>
       </div>
     </div>
